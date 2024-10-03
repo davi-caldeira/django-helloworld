@@ -1,7 +1,3 @@
-Abaixo está um exemplo de um arquivo `README.md` que explica a estrutura do Django de forma detalhada, concisa e legível.
-
----
-
 # Django Project Structure - Overview
 
 Django é um framework web escrito em Python, conhecido por sua simplicidade e "baterias incluídas", o que significa que ele vem com muitas funcionalidades prontas para uso. Esta documentação explicará a estrutura típica de um projeto Django.
